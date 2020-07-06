@@ -1,8 +1,12 @@
 Fruits:
 Apple 
 Mango
-Carrot
 Papaya
 Orange
+
+Vegetables:
+Carrot
+Beans
+Onion
 
 Thanks !!!
